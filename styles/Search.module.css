@@ -1,0 +1,8 @@
+.Search input{
+    border-radius: 15px;
+    padding: 6px;
+    background-color: white;
+}
+.Search input:focus{
+    outline: none;
+}
